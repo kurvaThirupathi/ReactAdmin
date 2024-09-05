@@ -1,0 +1,25 @@
+[
+    {
+        "labelName":"User Id",
+        "type":"text",
+        "name":"userId",
+        "id":"userId",
+        "placeHolder":"User Id",
+        "errorMsg":"Please Enter User Id",
+        "isRequired":true,
+        "hasError":false,
+        "value":""
+
+    },
+    {
+        "labelName":"Password",
+        "type":"password",
+        "name":"pwd",
+        "id":"pwd",
+        "placeHolder":"Password",
+        "errorMsg":"Please Enter Password",
+        "isRequired":true,
+        "hasError":false,
+        "value":""
+    }
+]
